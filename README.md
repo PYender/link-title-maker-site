@@ -1,5 +1,7 @@
 # Link Title Maker
 
+The first fully functional version was 3.1. After numerous refinements it grew into v3.5.2. The repository name and site address stay at 3.1 – kept that way partly in honour of the original, first site.
+
 Turn any web address into a clean, clickable word or emoji. Copy the result as HTML (for email and documents) or as Markdown.
 
 **Use it here:** https://pyender.github.io/link-title-maker-v3-1/
