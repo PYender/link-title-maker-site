@@ -48,6 +48,18 @@ Guides for version 3.5.2 are available in twelve languages, in the [`guides/`](g
 
 See [`terms/TERMS_v3.5.2.pdf`](terms/TERMS_v3.5.2.pdf).
 
+## Licence
+
+Link Title Maker is proprietary software – all rights reserved. Its source code
+is maintained in a separate, private repository (`PYender/link-title-maker-v3-1`)
+under a proprietary licence. The application and its source code may not be
+copied, modified, redistributed, or rehosted without written permission, and
+commercial use requires a separate licence. Please use the app via the official
+website only.
+
+The user guides and terms in this repository are provided for reference and for
+use with the app; they do not grant any rights to the source code.
+
 ## Author
 
 Created by Mariusz Włodarczyk.
