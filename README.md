@@ -24,6 +24,8 @@ Link Title Maker converts long, unwieldy URLs into a short clickable title or em
 
 - Some chat apps (for example, WhatsApp) do not support custom HTML links. That is a platform limitation, not a fault of the tool.
 - Your language preference is stored in your browser's localStorage (`ltm_lang`) only.
+- The live site uses a privacy-friendly visit counter (GoatCounter): it records
+  anonymous visit counts only – no cookies, and no tracking of individuals.
 
 ## User guides
 
